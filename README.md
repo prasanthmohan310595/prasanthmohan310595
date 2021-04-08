@@ -16,7 +16,7 @@
      and much more yet to come on the process..👍💪
           
           
-- 💞️ I’m looking to collaborate on various submodules of test driver projects and featuress..😊
+- 💞️ I’m looking to collaborate on various submodules of test driven projects and featuress..😊
 - 📫 How to reach me 
       gmail : prasanthmohan310595@gmail.com
 
