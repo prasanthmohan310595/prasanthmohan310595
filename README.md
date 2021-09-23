@@ -22,7 +22,7 @@
       gmail : prasanthmohan310595@gmail.com
       twitter : https://mobile.twitter.com/pmohan19786484
       facebook : https://www.facebook.com/prasanth.mohan.372
-      instragram : https://www.instagram.com/prasanth_mohan_95/
+      instagram : https://www.instagram.com/prasanth_mohan_95/
 
 <!---
 prasanthmohan310595/prasanthmohan310595 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
