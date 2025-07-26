@@ -1,18 +1,19 @@
 - 👋 Hi, you know my name :)
-- 👀 I’m interested in contributing as much i can to the QA domain, and spread the real importance of we SDETs 👍
-- 🌱 I’m currently learning and implementing the following testing adaptations,
-          Cypress.io,
-          CI/CD of unit tests and it's feasibility across various platforms and the other peripheral interesting references 🙌,
-          Engineering Circle CI,
-          Zalenium on GCP using GKE,
-          Zalenium on Azure using AKS,
-          Integration of OWASP ZAP into selenium and Java, CLI, Jenkins & Daemon,
-          Modernized drivers using "WebdriverManager".
+- 👀 I’m interested in contributing as much i can to the SDLC, and spread the real importance of we SDETs 👍
+- 🌱 I’m currently learning and implementing the following adaptations in testing,
+          Playwright in TypeScript,
+          Gen AI,
+          VIBE coding in testing,
+          Unit testing,
+          Contract testing,
+          MCP server(Playwright, SQL etc.,)
           
-
+        
      and some development skills are also into my arsenal,
           MAMP servers and middle ware,
-          MAMP offers both phpAdmin and DB hosts.
+          MAMP offers both phpAdmin and DB hosts,
+          The MEAN stack,
+          .NET Core.
 
      and much more yet to come on the process..👍💪
           
